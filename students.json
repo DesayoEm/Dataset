@@ -1,27 +1,27 @@
 {
     "students": {
-        "John Doe": {
+        "Adesayo L": {
             "subjects": {
                 "Math": 85,
                 "Science": 90,
                 "History": 78
             }
         },
-        "jane smith": {
+        "Moria Kincaid": {
             "subjects": {
                 "Math": 35,
                 "Science": 45,
                 "History": 60
             }
         },
-        "Emily Davis": {
+        "Lola Pratt": {
             "subjects": {
                 "Math": 85,
                 "Science": 90,
                 "History": 28
             }
         },
-        "Michael Brown": {
+        "Kayode Brown": {
             "subjects": {
                 "Math": 85,
                 "Science": 90,
