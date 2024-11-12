@@ -2,7 +2,7 @@
     {
         "name": "Adeola Akinyemi",
         "nationality": "Nigerian",
-        "email": "adeola.akinyemi@example.com",
+        "email": null,
         "sex": "Female",
         "is_employed": true
     },
@@ -16,7 +16,7 @@
     {
         "name": "Ngozi Nwosu",
         "nationality": "Nigerian",
-        "email": "ngozi.nwosu@example.com",
+        "email": null,
         "sex": "Female",
         "is_employed": true
     },
@@ -44,7 +44,7 @@
     {
         "name": "Akua Boateng",
         "nationality": "Ghanaian",
-        "email": "akua.boateng@example.com",
+        "email": null,
         "sex": "Female",
         "is_employed": false
     },
@@ -57,16 +57,4 @@
     },
     {
         "name": "Brigitte Ndongo",
-        "nationality": "Cameroonian",
-        "email": "brigitte.ndongo@example.com",
-        "sex": "Female",
-        "is_employed": true
-    },
-    {
-        "name": "Jean-Claude Mbah",
-        "nationality": "Cameroonian",
-        "email": "jean_claude.mbah@example.com",
-        "sex": "Male",
-        "is_employed": false
-    }
-]
+        "nationality": "Camero
