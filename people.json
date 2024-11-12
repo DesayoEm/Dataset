@@ -1,37 +1,72 @@
-{
-  "John Doe": {
-    "nationality": "American",
-    "email": "johndoe@example.com",
-    "sex": "male",
-    "age": 32,
-    "is_employed": true
-  },
-  "Emily Wong": {
-    "nationality": "Canadian",
-    "email": "emilywong@example.com",
-    "sex": "female",
-    "age": 28,
-    "is_employed": false
-  },
-  "Ahmed Khan": {
-    "nationality": "Pakistani",
-    "email": "ahmedkhan@example.com",
-    "sex": "male",
-    "age": 45,
-    "is_employed": true
-  },
-  "Sophia Garcia": {
-    "nationality": "Mexican",
-    "email": "sophiagarcia@example.com",
-    "sex": "female",
-    "age": 37,
-    "is_employed": false
-  },
-  "Liam O'Connor": {
-    "nationality": "Irish",
-    "email": "liamoconnor@example.com",
-    "sex": "male",
-    "age": 26,
-    "is_employed": true
-  }
-}
+[
+    {
+        "name": "Adeola Akinyemi",
+        "nationality": "Nigerian",
+        "email": "adeola.akinyemi@example.com",
+        "sex": "Female",
+        "is_employed": true
+    },
+    {
+        "name": "Chidi Okeke",
+        "nationality": "Nigerian",
+        "email": "chidi.okeke@example.com",
+        "sex": "Male",
+        "is_employed": false
+    },
+    {
+        "name": "Ngozi Nwosu",
+        "nationality": "Nigerian",
+        "email": "ngozi.nwosu@example.com",
+        "sex": "Female",
+        "is_employed": true
+    },
+    {
+        "name": "Tunde Adebayo",
+        "nationality": "Nigerian",
+        "email": "tunde.adebayo@example.com",
+        "sex": "Male",
+        "is_employed": false
+    },
+    {
+        "name": "Funke Balogun",
+        "nationality": "Nigerian",
+        "email": "funke.balogun@example.com",
+        "sex": "Female",
+        "is_employed": true
+    },
+    {
+        "name": "Kwame Mensah",
+        "nationality": "Ghanaian",
+        "email": "kwame.mensah@example.com",
+        "sex": "Male",
+        "is_employed": true
+    },
+    {
+        "name": "Akua Boateng",
+        "nationality": "Ghanaian",
+        "email": "akua.boateng@example.com",
+        "sex": "Female",
+        "is_employed": false
+    },
+    {
+        "name": "Yaw Amponsah",
+        "nationality": "Ghanaian",
+        "email": "yaw.amponsah@example.com",
+        "sex": "Male",
+        "is_employed": true
+    },
+    {
+        "name": "Brigitte Ndongo",
+        "nationality": "Cameroonian",
+        "email": "brigitte.ndongo@example.com",
+        "sex": "Female",
+        "is_employed": true
+    },
+    {
+        "name": "Jean-Claude Mbah",
+        "nationality": "Cameroonian",
+        "email": "jean_claude.mbah@example.com",
+        "sex": "Male",
+        "is_employed": false
+    }
+]
