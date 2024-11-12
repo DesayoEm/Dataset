@@ -1,0 +1,52 @@
+{
+    "people": {
+        "Adeola Akinyemi": {
+            "nationality": "Nigerian",
+            "email": null,
+            "sex": "Female",
+            "is_employed": true
+        },
+        "Chidi Okeke": {
+            "nationality": "Nigerian",
+            "email": "chidi.okeke@example.com",
+            "sex": "Male",
+            "is_employed": false
+        },
+        "Ngozi Nwosu": {
+            "nationality": "Nigerian",
+            "email": null,
+            "sex": "Female",
+            "is_employed": true
+        },
+        "Tunde Adebayo": {
+            "nationality": "Nigerian",
+            "email": "tunde.adebayo@example.com",
+            "sex": "Male",
+            "is_employed": false
+        },
+        "Funke Balogun": {
+            "nationality": "Nigerian",
+            "email": "funke.balogun@example.com",
+            "sex": "Female",
+            "is_employed": true
+        },
+        "Kwame Mensah": {
+            "nationality": "Ghanaian",
+            "email": "kwame.mensah@example.com",
+            "sex": "Male",
+            "is_employed": true
+        },
+        "Akua Boateng": {
+            "nationality": "Ghanaian",
+            "email": null,
+            "sex": "Female",
+            "is_employed": false
+        },
+        "Yaw Amponsah": {
+            "nationality": "Ghanaian",
+            "email": "yaw.amponsah@example.com",
+            "sex": "Male",
+            "is_employed": true
+        }
+    }
+}
